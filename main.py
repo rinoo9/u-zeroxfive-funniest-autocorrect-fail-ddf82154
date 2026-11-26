@@ -9,9 +9,8 @@ as the bounty rules require.
 import os
 
 ENTRY = (
-    "I meant to text my boss 'Sounds good, thanks!' but autocorrect "
-    "sent 'Sounds good, thongs!' — HR just scheduled a meeting about "
-    "my wardrobe."
+    "I texted my landlord 'The rent is in the bank' but autocorrect "
+    "sent 'The rat is in the bank' — now he wants to inspect my apartment."
 )
 
 MAX_CHARS = 199
